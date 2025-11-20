@@ -1,0 +1,5 @@
+{
+  "name": "CulinaryAI",
+  "description": "An intelligent recipe generator that provides detailed cooking instructions, nutritional info, and finds relevant video tutorials using Google Gemini.",
+  "requestFramePermissions": []
+}
